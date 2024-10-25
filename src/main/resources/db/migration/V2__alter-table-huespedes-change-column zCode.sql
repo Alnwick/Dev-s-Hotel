@@ -1,0 +1,1 @@
+ALTER TABLE huespedes CHANGE COLUMN zCode z_code VARCHAR(5) NOT NULL;
